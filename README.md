@@ -7,6 +7,7 @@ A UPC scanner app that scans upc codes to check if product exists in database
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 Other parts of this project:
+
 [upc-server](https://github.com/eyao06/upc-server)
 
 [upc-website](https://github.com/eyao06/upc-website)

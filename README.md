@@ -27,7 +27,7 @@ Other parts of this project:
 
 * Download project 
 * Extract project
-* Make sure to run server and database (Go to [upc-website](https://github.com/eyao06/upc-website) project for further instructions) 
+* Make sure to run server and database (Go to [upc-server](https://github.com/eyao06/upc-server) project for further instructions) 
 * Open command line in project directory
 * Install dependencies 
 ```

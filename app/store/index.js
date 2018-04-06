@@ -1,5 +1,5 @@
 
-const ipAddress = '192.168.42.74'
+const ipAddress = 'Enter IP Address'
 const API = 'http://' + ipAddress + ':3000/products.json';
 
 export const apiMiddleware = store => next => action => {
